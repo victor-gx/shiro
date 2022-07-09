@@ -1,0 +1,21 @@
+
+R
+java:S2065"0Remove the "transient" modifier from this field.(Ä²¢•ûÿÿÿÿ8Æáƒ0
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8ŸÆáƒ0
+^
+java:S1874"ARemove this use of "IniSecurityManagerFactory"; it is deprecated.(¤ÃÂƒ8”¾…„0
+c
+java:S34576"AFormat specifiers should be used instead of string concatenation.(ÅÛ‰Ûÿÿÿÿÿ8¨Æáƒ0
+^
+java:S3457@"AFormat specifiers should be used instead of string concatenation.(ÑÚ†Î8®Æáƒ0
+c
+java:S3457B"AFormat specifiers should be used instead of string concatenation.(â‡†Ùşÿÿÿÿ8°Æáƒ0
+c
+java:S3457D"AFormat specifiers should be used instead of string concatenation.(¸Ïªûúÿÿÿÿ8³Æáƒ0
+c
+java:S3457O"AFormat specifiers should be used instead of string concatenation.(²¤éûúÿÿÿÿ8·Æáƒ0
+Y
+java:S26296"7Use the built-in formatting to construct this argument.(ÅÛ‰Ûÿÿÿÿÿ8ÀÆáƒ0
+0
+java:S1220""Move this file to a named package.
